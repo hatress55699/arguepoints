@@ -21,6 +21,11 @@
             "group": "Group 1"
         },
         {
+            "id": "new2024111",
+            "label": "new2024111",
+            "group": "Group 1"
+        },
+        {
             "id": "KK",
             "label": "KK",
             "group": "Group 2"
@@ -43,9 +48,14 @@
     ],
     "edges": [
         {
+            "source": "new2024111",
+            "target": "qqa",
+            "weight": 1
+        },
+        {
             "source": "A",
             "target": "B",
-            "weight": 1
+            "weight": 4
         },
         {
             "source": "A",
